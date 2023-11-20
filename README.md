@@ -17,4 +17,4 @@
   <img align= "center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Cursando Engelharia de Software, apaixonado por tecnologia e sempre estudando progamação.
+
