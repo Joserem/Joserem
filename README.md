@@ -7,6 +7,7 @@
 
 
 ![José GitHub stats](https://github-readme-stats.vercel.app/api?username=Joserem&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joserem&layout=compact&theme=dark)
 
 ## Tecnologias que eu uso no meu dia 
 
