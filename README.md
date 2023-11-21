@@ -1,13 +1,14 @@
 ### Boas vindas ao meu perfil 😃
-
+ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-henrique-silva-48942526a/)
 [![Liktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://josesilvalinktreeofc.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jose__henrique1?igshid=ZDdkNTZiNTM=)
 
-
-![José GitHub stats](https://github-readme-stats.vercel.app/api?username=Joserem&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joserem&layout=compact&theme=dark)
+<div>
+<img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=Joserem&show_icons=true&theme=dark")>
+<img height="180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Joserem&layout=compact&langs_count=16&theme=dark")>
+</div>
 
 ## Tecnologias que eu uso no meu dia 
 
