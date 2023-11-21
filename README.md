@@ -1,9 +1,17 @@
-### Boas vindas ao meu perfil 😃
- 
+
+
+<h1 align="center"> Boas vindas ao meu perfil 😃</h1>
+
+<h3 align="center">Software engineer by training, with a deep passion for technology 👨‍💻.</h3>
+
+</p>
+
+<h1></h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-henrique-silva-48942526a/)
 [![Liktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://josesilvalinktreeofc.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jose__henrique1?igshid=ZDdkNTZiNTM=)
+
 
 <div>
 <img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=Joserem&show_icons=true&theme=dark")>
