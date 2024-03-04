@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Boas vindas ao meu perfil 😃</h1>
+<h1 align="center"> Welcome to my profile 😃</h1>
 
 
 
@@ -17,7 +17,7 @@
 <img height="180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Joserem&layout=compact&langs_count=16&theme=dark")>
 </div>
 
-## Tecnologias que eu uso no meu dia 
+## Technologies I use in my day
 
 <div style = "display: inline_block"><br/>
   <img align= "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
